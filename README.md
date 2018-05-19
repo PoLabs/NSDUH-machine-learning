@@ -6,4 +6,4 @@ Contents:
 - neural net using R's 'neuralnet' package
 - gradient boosted trees with 'xgboost' package
 
-This is old code that attempts to classify respondents as positive/negative for past year opioid use disorder. Opioid use disorder is a relatively rare occurance (<1%) and I haven't added any upsampling techniques yet, so the accuracy is always 99%. I would look for a more common phenomenom. 
+Old code that attempts to classify respondents as positive/negative for past year opioid use disorder. Opioid use disorder is a relatively rare occurance (<1%) and needs upsampling, so accuracy is always 99%.
